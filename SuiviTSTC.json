@@ -1,5 +1,5 @@
 {
-  "version": "0.9.4",
+  "version": "0.9.5",
   "url": "https://www.icloud.com/shortcuts/4cec1461010d4900a09d6afb9e66302f",
-  "changelog": ""
+  "changelog": "Selection automatique du dossier Notes si une autre note de suivi existe déjà"
 }
