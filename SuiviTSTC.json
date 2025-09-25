@@ -1,5 +1,12 @@
 {
-  "version": "1.0.3",
-  "url": "https://www.icloud.com/shortcuts/f64648a1b28842ab8a44e1bb774e8797",
-  "changelog": "- Correction d'un bug AM/PM entrainant un calcul erroné"
+  "version": "2.0",
+  "url": "https://www.icloud.com/shortcuts/4418f929cc614de38b253ef18273f03f",
+  "changelog": [
+    "MISE À JOUR MAJEURE !",
+    "- Simplification du parcours : moins d’étapes pour plus d’efficacité",
+    "- Affichage systématique et simultané du TC avec et sans repos écourté",
+    "- Enregistrement dans Notes avec ou sans repos écourté, choix après le calcul",
+    "- Menu final dynamique",
+    "- Autres améliorations invisibles à l’œil nu"
+  ]
 }
