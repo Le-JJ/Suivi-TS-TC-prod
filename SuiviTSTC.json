@@ -2,7 +2,7 @@
   "version": "2.1",
   "url": "https://lc.cx/CalculTSTC21iOSmaj",
   "changelog": [
-    "- Vous êtes déjà sur SelfService ? Ouvrez le raccourci depuis la page de votre service via le bouton Partager pour ne plus avoir à entrer vos horaires !\n",
+    "- Vous êtes déjà sur SelfService ? Ouvrez le raccourci depuis la page de votre service via le bouton Partager pour ne plus avoir à entrer vos horaires ! (uniquement sur Safari)\n",
     "v2.0",
     "- Simplification du parcours : moins d’étapes pour plus d’efficacité",
     "- Affichage systématique et simultané du TC avec et sans repos écourté",
