@@ -1,10 +1,12 @@
 {
-  "version": "2.2",
+  "version": "2.2.1",
   "url": "https://dub.sh/calctstc22",
   "changelog": [
+    "- Corrections mineures",
+    "- Découvrez le nouveau raccourci \"Portail Pro\" en cliquant sur \"Mes autres raccourcis\"",
+    "Versions précédentes",
     "- Entrez votre salaire brut et découvrez combien vous gagnez chaque jour grâce au retard !",
     "(Avec l'aimable autorisation de Damien “DamDam“ S.)\n",
-    "v2.0",
     "- Simplification du parcours : moins d’étapes pour plus d’efficacité",
     "- Affichage systématique et simultané du TC avec et sans repos écourté",
     "- Choix de l'enregistrement avec ou sans repos écourté après le calcul",
