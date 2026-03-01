@@ -1,14 +1,11 @@
 {
-  "version": "2.2.1",
-  "url": "https://dub.sh/calctstc221",
+  "version": "2.3",
+  "url": "https://dub.sh/calctstc23",
   "changelog": [
-    "- Corrections mineures",
-    "- Découvrez le nouveau raccourci \"Portail Pro\" en cliquant sur \"Mes autres raccourcis\"\n",
-    "Versions précédentes",
-    "- Entrez votre salaire brut et découvrez combien vous gagnez chaque jour grâce au retard !",
-    "(Avec l'aimable autorisation de Damien “DamDam“ S.)",
-    "- Simplification du parcours : moins d’étapes pour plus d’efficacité",
-    "...",
+    "- Les réglages sont désormais dans le raccourci, vous entrerez le salaire et le temps de travail pour la dernière fois, même en cas de mise à jour !",
+    "- Pour les utilisateurs de la toute dernière version du raccourci \"Paiement TS/TC…\", les réglages sont synchronisés entre les deux raccourcis.",
+    "- Visualisez la note du mois précédent en plus de celle du mois en cours",
+    "- Retrouvez tous les liens utiles dans le nouveau raccourci \"Portail Pro \" en appuyant sur \"Mes autres raccourcis\" en fin d'utilisation.\n",
     "Profitez-bien de la dernière version de votre raccourci préféré !"
   ]
 }
