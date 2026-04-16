@@ -2,7 +2,7 @@
   "version": "2.4",
   "url": "https://dub.sh/calctstc24",
   "changelog": [
-    "• Le calcul des montants nets est affiné selon le type de contrat (merci à Martial L.8)\n",
+    "• Le calcul des montants nets est affiné selon le type de contrat (merci à Martial L.8)",
     "v 2.3.2 / v2.3.1",
     "• Correction d'un bug empêchant la recherche automatique de mise à jour\n",
     "• Ajout du raccourci à l’écran d’accueil",
